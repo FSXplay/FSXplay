@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @FSXplay
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Roblox and Unity
+Hello, world!
 
 <!---
 FSXplay/FSXplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
